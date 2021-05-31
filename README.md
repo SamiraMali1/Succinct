@@ -1,1 +1,1 @@
-# Succinct
+# Chromatin Modeling
